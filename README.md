@@ -1,0 +1,1 @@
+The repository contains three Python scripts (Python 3), used to identify "downstream-of-gene" transcripts (DoG_from_BAM.py), regions of double-stranded RNA (dsRNA_per_gene.py), and reverse transcription errors in sequencing data (2a3_quant.py), respectively.
